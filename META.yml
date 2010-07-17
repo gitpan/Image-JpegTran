@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Image-JpegTran
-version:            0.01
+version:            0.02
 abstract:           XS wrapper around lossless JPEG transformation utility - jpegtran
 author:
     - Mons Anderson <mons@cpan.org>
